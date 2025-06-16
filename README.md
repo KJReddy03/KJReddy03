@@ -9,7 +9,7 @@
 <h3 align="Left">🚀 About Me</h3>
 
 - 🎓 I'm a Computer Science and Engineering student  
-- 🌱 Currently learning full-stack development and game design  
+- 🌱 Currently learning full-stack development and 3D designing  
 - 🔧 Working on: Full-stack developement projects 
 - 🕹️ Interests: Game Dev, Web Dev, UI/UX, AI, and Tech  
 
