@@ -10,7 +10,7 @@
 
 - 🎓 I'm a Computer Science and Engineering student  
 - 🌱 Currently learning full-stack development and game design  
-- 🔧 Working on: [Gaming Info Website](#) and [Gaming Tournament Scheduler](#)  
+- 🔧 Working on: Full-stack developement projects 
 - 🕹️ Interests: Game Dev, Web Dev, UI/UX, AI, and Tech  
 
 - 📫 How to reach me **keerthanreddyj09@gmail.com**
